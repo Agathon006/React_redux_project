@@ -27,13 +27,13 @@ Project that shows working with React + Redux using Finite-State-Machine (FSM) i
 - Javascript
 - React
 - Redux
-- - State Machine
--- Redux-Thunk
-- - Reselect
-- - Actions / Reducers / Slices
-- - Enhancers / Middlewares
-- - Redux Toolkit (on branch "redux-toolkit")
-- - Redux Toolik: RTK Query (on branch "redux-toolkit")
+  - State Machine
+  - Redux-Thunk
+  - Reselect
+  - Actions / Reducers / Slices
+  - Enhancers / Middlewares
+  - Redux Toolkit (on branch "redux-toolkit")
+  - Redux Toolik: RTK Query (on branch "redux-toolkit")
 - React Transition Group
 - Formik + Yup
 - useState, useEffect, useCallback, useMemo
