@@ -6,7 +6,7 @@ Project that shows working with React + Redux using Finite-State-Machine (FSM) i
 
 ## Video demo:
 
-
+https://github.com/Agathon006/React_redux_project/assets/64129058/cf8efa02-8eae-4770-bc50-41affde9db05
 
 ---
 
